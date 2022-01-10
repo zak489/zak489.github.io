@@ -16,20 +16,14 @@ name: Alexandre Coates
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Atoms
-subtitle: Get Science Done
+title: Sciencish
+subtitle: a PhD blog
 title_separator: "|"
 email: ac173@hw.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-<<<<<<< HEAD
-  The website for Zhe Xian, Koong, an Experimental Physicist Exploring the Frontiers of Quantum Technologies.
-twitter_username: ZXKoong
-github_username: zak489
-=======
   The PhD website for Alexandre Coates, Theoretical Physicist studying Open Quntum Systems and Quantum Biology.
 twitter_username: Science_Maybe
 github_username: AlexandreCoates
->>>>>>> parent of 86781dd (personalized.)
 minimal_mistakes_skin: dirt #default "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
@@ -71,11 +65,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-<<<<<<< HEAD
-  name   : "Zhe Xian (Zak), Koong"
-=======
   name   : "Alexandre Coates"
->>>>>>> parent of 86781dd (personalized.)
   avatar : "/assets/profile_photo.png"
   bio    : "PhD Theoretical Physicist studying Open Quantum Systems and Quantum Biology. Based in Scotland, interested in public engagement, making universities nicer, and finding new hats."
   links:
