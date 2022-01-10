@@ -1,4 +1,4 @@
-name: Zhe Xian (Zak), Koong
+name: Alexandre Coates
 #permalink: /blog/:year/:month/:day/:title
 
 # Welcome to Jekyll!
@@ -19,11 +19,17 @@ name: Zhe Xian (Zak), Koong
 title: Atoms
 subtitle: Get Science Done
 title_separator: "|"
-email: koong898@gmail.com
+email: ac173@hw.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
+<<<<<<< HEAD
   The website for Zhe Xian, Koong, an Experimental Physicist Exploring the Frontiers of Quantum Technologies.
 twitter_username: ZXKoong
 github_username: zak489
+=======
+  The PhD website for Alexandre Coates, Theoretical Physicist studying Open Quntum Systems and Quantum Biology.
+twitter_username: Science_Maybe
+github_username: AlexandreCoates
+>>>>>>> parent of 86781dd (personalized.)
 minimal_mistakes_skin: dirt #default "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
@@ -65,34 +71,38 @@ plugins:
   - jekyll-include-cache
 
 author:
+<<<<<<< HEAD
   name   : "Zhe Xian (Zak), Koong"
+=======
+  name   : "Alexandre Coates"
+>>>>>>> parent of 86781dd (personalized.)
   avatar : "/assets/profile_photo.png"
-  bio    : "PostDoc in trapped ion technologies. Currently based in Innsbruck, Austria. Previously interest includes superfluid optomechanics and quantum optics with semiconductor quantum dots."
+  bio    : "PhD Theoretical Physicist studying Open Quantum Systems and Quantum Biology. Based in Scotland, interested in public engagement, making universities nicer, and finding new hats."
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ZxKoong"
+      url: "https://twitter.com/science_maybe"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/zak489"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/zhexkoong/"
+      url: "https://github.com/alexandrecoates"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ZxKoong"
+      url: "https://twitter.com/science_maybe"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/zak489"
-    - label: "Instagram"
-     icon: "fab fa-fw fa-instagram"
-     url: "https://www.instagram.com/zhexkoong/"
+      url: "https://github.com/alexandrecoates"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 defaults:
   # _posts
