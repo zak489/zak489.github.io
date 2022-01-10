@@ -4,7 +4,7 @@ permalink: /blog/
 layout: posts
 author_profile: true
 
-excerpt: "A list of my posts organized by year."
+excerpt: "A list of my posts organised by year."
 
 header:
   overlay_color: "#f29cb7"
