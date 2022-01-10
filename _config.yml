@@ -16,12 +16,12 @@ name: Zhe Xian (Zak), Koong
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sciencish
-subtitle: a PhD blog
+title: Atoms
+subtitle: Get Science Done
 title_separator: "|"
 email: koong898@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for Zhe Xian, Koong, Experimental Physicist exploring Frontiers of Quantum Technologies.
+  The website for Zhe Xian, Koong, an Experimental Physicist Exploring the Frontiers of Quantum Technologies.
 twitter_username: ZXKoong
 github_username: zak489
 minimal_mistakes_skin: dirt #default "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -65,7 +65,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Zhe Xian, Koong"
+  name   : "Zhe Xian (Zak), Koong"
   avatar : "/assets/profile_photo.png"
   bio    : "PostDoc in trapped ion technologies. Currently based in Innsbruck, Austria. Previously interest includes superfluid optomechanics and quantum optics with semiconductor quantum dots."
   links:
