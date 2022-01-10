@@ -21,8 +21,8 @@ subtitle: Get Science Done!
 title_separator: "|"
 email: koong898@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The PhD website for Zhe Xian Koong, Theoretical Physicist studying Open Quntum Systems and Quantum Biology.
-twitter_username: Science_Maybe
+  Personal website for Zhe Xian Koong, a Quantum Physicist working on Trapped Ions In Innsbruck, Austria.
+twitter_username: ZxKoong
 github_username: zak489
 minimal_mistakes_skin: dirt #default "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
@@ -67,17 +67,17 @@ plugins:
 author:
   name   : "Zhe Xian Koong"
   avatar : "/assets/profile_photo.jpg"
-  bio    : "PhD Theoretical Physicist studying Open Quantum Systems and Quantum Biology. Based in Scotland, interested in public engagement, making universities nicer, and finding new hats."
+  bio    : "PostDoc in University of Innsbruck, Austria. Research topics include trapped ions, semiconductor quantum dots and superfluid optomechanics."
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/science_maybe"
+      url: "https://twitter.com/ZxKoong"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/alexandrecoates"
+      url: "https://github.com/zak489"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
@@ -86,10 +86,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/science_maybe"
+      url: "https://twitter.com/ZxKoong"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/alexandrecoates"
+      url: "https://github.com/zak489"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
