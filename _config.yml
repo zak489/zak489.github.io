@@ -1,4 +1,4 @@
-name: Zhe Xian Koong
+name: Zhe Xian (Zak) Koong
 #permalink: /blog/:year/:month/:day/:title
 
 # Welcome to Jekyll!
@@ -21,7 +21,7 @@ subtitle: Get Science Done!
 title_separator: "|"
 email: koong898@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website for Zhe Xian Koong, a Quantum Physicist working on Trapped Ions In Innsbruck, Austria.
+  Personal website for Zhe Xian (Zak) Koong, a Quantum Physicist working on Trapped Ions In Innsbruck, Austria.
 twitter_username: ZxKoong
 github_username: zak489
 minimal_mistakes_skin: dirt #default "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -65,7 +65,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Zhe Xian Koong"
+  name   : "Zhe Xian (Zak) Koong"
   avatar : "/assets/profile_photo.jpg"
   bio    : "PostDoc in University of Innsbruck, Austria. Research topics include trapped ions and semiconductor quantum dots."
   links:
