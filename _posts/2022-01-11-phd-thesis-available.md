@@ -23,6 +23,6 @@ toc_icon: "cog"
 ---
 An email in the morning of the 7th of January 2022 marks the day where I am finally done with my PhD! Final version of my thesis submission has been accepted by the student service center and I am officially (PhD-)done! Great thanks to everyone that is involved in the projects, especially my supervisor, Brian for taking me in as a PhD student and offering the precious funding for me to work on the exciting topic of semiconductor quantum dot single photon sources. 
 
-While it might take about a year or two for the university to update their repository, for anyone who is interested in my thesis, here is the [_link_](https://www.dropbox.com/s/o9sgcx5e6u3khem/2021_ZheXian_Koong.pdf?dl=0). Hope you guys find it interesting enough for a read (*spoiler*: most of the work depicted in the thesis are published but there are some unpublished **gems** that might be interesting to explore further!)
+While it might take about a year or two for the university to update their repository, for anyone who is interested in my thesis, here is the [_link_](https://drive.google.com/file/d/1TYM0n-s0AIHoQGonKChSroqnqwS7TnI_/view?usp=sharing). Hope you guys find it interesting enough for a read (*spoiler*: most of the work depicted in the thesis are published but there are some unpublished **gems** that might be interesting to explore further!)
 
 It is time for holidayyy.....
